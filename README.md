@@ -1,4 +1,6 @@
-##  THE 🍉JUNE🍉  OF  🎮CODE🎮  : 🥊 AN OPENSOURCE C++ COMMUNITY DOUBT CONTEST 🥊
+##  THE JUNE🍉 OF CODE🎮 : AN OPENSOURCE C++ COMMUNITY DOUBT CONTEST 🥊 
+##:eyes:
+##:tongue:
 
 🤓 Welcome to the contest which aims to helps beginners learn pull request and other stuff related to git and github 💣.This contest aims to improve your debugging skills 💻 .Doubts will be regularly posted 🥁 in Doubt Conest Folder .Whenever , you kindly solve someone's doubt , it conveys that you ❤️care❤️!For students who will be solving doubts 🚀,their names will be added to this readme.md and their solutions will help students and they would be given full credit .🏀
 
