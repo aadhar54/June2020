@@ -15,7 +15,7 @@ public:
 int main() {
     //static int a;
     Car C;
-    cout<<C.price; //zero
+    cout<<C.price<<endl; //zero
     //Initialisation
     C.price =500; 
     cout<<C.price<<endl; // 500
@@ -30,5 +30,7 @@ int main() {
     //cout<<sizeof(Car)<<endl; // It will take 28 bytes
     //Car C[100]; //Array an objects
     
+
+
     return 0; 
 }
