@@ -31,6 +31,7 @@ class SonOfBat : public Batman{
 			cout<<"Son of batman's moto "<<moto<<endl;
 			cout<<"Son of batman's bloodGroup "<<bloodGroup<<endl;
 			cout<<"Son of batman's hasFriends "<<hasFriends<<endl;
+			//cout<<"Son of batman's  goldCoins"<<goldCoins<<endl;
 		}
 };
 

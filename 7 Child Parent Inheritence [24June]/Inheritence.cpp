@@ -1,7 +1,7 @@
 // C++ program to demonstrate implementation 
 // of Inheritance 
 
-#include <bits/stdc++.h> 
+#include <iostream> 
 using namespace std; 
 
 //Base class 

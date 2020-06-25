@@ -71,7 +71,7 @@ int main(){
 	a.setAge(100);
 	a.print();
 	cout<<endl;
-	cout<<a.noOfhair<<endl; 
+	//cout<<a.noOfhair<<endl; 
 	// gives error  WHY HW ???
 
 	return 0;
