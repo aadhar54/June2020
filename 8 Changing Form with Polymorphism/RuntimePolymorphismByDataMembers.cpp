@@ -11,5 +11,5 @@ class Dog: public Animal                       // inheriting Animal class.
 };    
 int main(void) {    
      Animal d= Dog();      
-    cout<<d.color;     
+    cout<<d.color<<endl;     
 }    

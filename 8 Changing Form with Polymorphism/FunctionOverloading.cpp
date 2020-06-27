@@ -1,5 +1,5 @@
 // C++ program for function overloading 
-#include <bits/stdc++.h> 
+#include<iostream> 
 
 using namespace std; 
 class Sample 
@@ -28,8 +28,8 @@ class Sample
 int main() { 
 	
 	Sample obj1; 
-	int x;
-	cin>> x; 
+	// int x;
+	// cin>> x; 
 
 	//check data type and call function accordingly HW
 
